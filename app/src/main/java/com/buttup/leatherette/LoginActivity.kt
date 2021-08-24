@@ -40,7 +40,7 @@ class LoginActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_login)
 
         val buttonSignIn = findViewById<Button>(R.id.btn_signin)
         val kakaoLoginBtn = findViewById<ImageView>(R.id.kakao_login_btn)

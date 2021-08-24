@@ -27,8 +27,9 @@ class MainActivity : AppCompatActivity() {
 
         if (actionBar != null) actionBar.hide()
 
-        // bottomNavigationView -> bnv_main 변수명 변경함.
-        val bnv_main = findViewById<BottomNavigationView>(R.id.bnv_main)
+        // 추가된 라인. bottomNavigationView -> bnv_main 변수명 변경함.
+        bnv_main = findViewById<BottomNavigationView>(R.id.bnv_main)
+
         BottomNavigationHelper.disableShiftMode(bnv_main)
         changeFragment(home)
         initNavigationBar()

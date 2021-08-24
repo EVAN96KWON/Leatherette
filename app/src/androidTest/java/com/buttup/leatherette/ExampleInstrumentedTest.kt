@@ -1,4 +1,4 @@
-package com.example.leatherette
+package com.buttup.leatherette
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

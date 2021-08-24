@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074785590255",
+    "project_id": "leatherette-f1cf0",
+    "storage_bucket": "leatherette-f1cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074785590255:android:69440774416d447702b41a",
+        "android_client_info": {
+          "package_name": "com.buttup.leatherette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074785590255-n1oi3425lg6bbj0nkk19fesncb36o1nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buttup.leatherette",
+            "certificate_hash": "1933a84c81bcfe4cf872b010c9a3700b1fe4c618"
+          }
+        },
+        {
+          "client_id": "1074785590255-vmp6lsmnthnfn4mgff6otdqd707i2rg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBom9T3OC-tj4fS2jM9GaK3ObfUzNedyD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074785590255-vmp6lsmnthnfn4mgff6otdqd707i2rg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

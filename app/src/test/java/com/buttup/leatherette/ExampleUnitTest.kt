@@ -1,4 +1,4 @@
-package com.example.leatherette
+package com.buttup.leatherette
 
 import org.junit.Test
 
